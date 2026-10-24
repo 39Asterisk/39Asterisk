@@ -1,47 +1,93 @@
+<!--
+GitHub 个人主页 README · 可直接渲染的单文件模板
+
+使用：将本文件命名为 README.md，放入与你的 GitHub 用户名同名的公开仓库根目录。
+展示名不需要与 GitHub 用户名相同。
+
+可修改位置：展示名、自我介绍、项目表格、学习记录。
+项目链接示例：[项目名称](https://github.com/你的用户名/仓库名)
+未填写的信息以“待添加 / 待补充”显示；本注释不会出现在渲染后的页面中。
+-->
+
 <div align="center">
 
-# Hi, I'm 叁玖 Asterisk ฅ^•ﻌ•^ฅ
+<sub>WELCOME TO MY CORNER OF GITHUB</sub>
 
-**学生 · 开源爱好者 · Fedora / KDE · Windows 用户**
+<h1>你好，我是叁玖 Asterisk ✦</h1>
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white)
-![Hatsune Miku Love](https://img.shields.io/badge/Hatsune_Miku-Love-39C5BB?style=flat-square)
+<p><strong>🎓 学生 &nbsp; · &nbsp; 💻 计算机爱好者 &nbsp; · &nbsp; 🌱 保持好奇</strong></p>
 
-*把好奇写进代码，把喜欢留给初音未来。*
+<p>把好奇心写进代码，把每一步留在这里。</p>
+
+<p>
+  <a href="#关于我">关于我</a>
+  &nbsp; / &nbsp;
+  <a href="#项目空间">项目空间</a>
+  &nbsp; / &nbsp;
+  <a href="#学习记录">学习记录</a>
+</p>
 
 </div>
 
-## 🐾 关于我
+---
 
-你好，这里是 **叁玖 Asterisk**，一名喜欢 Linux 与开源软件的学生。
+## 关于我
 
-把日常遇到的小问题当作学习的起点，尝试用代码做些实用、有趣的东西。关注工具是否好用，也在意代码能否读懂、文档能否帮上忙。
+我是 **叁玖 Asterisk**，一名对计算机保持好奇的学生。
 
-喜欢开放的讨论、清晰的实现，以及一起把项目慢慢打磨好的过程。欢迎带着问题、想法，或一份 Pull Request 来串门喵。
+想把这里慢慢整理成自己的数字小站：记录学到的知识，存放动手做过的东西，也给新的想法留一点空间。
 
-## 🛠️ 日常环境
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📖 学一点</h3>
+      <p>从一个问题出发，理解概念、整理思路，再把零散的知识连起来。</p>
+      <p><sub>理解 · 记录 · 回顾</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ 做一点</h3>
+      <p>把想法变成小实验，在实践中发现问题，也在修改中慢慢进步。</p>
+      <p><sub>尝试 · 实践 · 改进</sub></p>
+    </td>
+  </tr>
+</table>
 
-| 项目 | 我的选择 |
-| :--- | :--- |
-| 操作系统 | **Fedora Linux / Windows** |
-| Linux 桌面 | **KDE Plasma** |
+## 项目空间
 
-桌面要顺手，也要有自己的样子。喜欢在日常使用中探索、调整，让工具逐渐贴合自己的习惯。
+> 🌱 给接下来的作品留个位置。
 
-## 🌱 关注方向
+<!-- 将下面的预留行替换为真实项目，可以继续添加新行。 -->
 
-- **实用工具**：从真实需求出发，让小功能解决具体问题。
-- **Linux 桌面**：探索 Fedora 与 KDE Plasma 的日常体验，兼顾效率与个性。
-- **开源协作**：通过 Issue、Pull Request 与文档分享发现，让每次交流都能帮助项目向前一点。
+| 项目 | 一句话介绍 | 状态 |
+| :--- | :--- | :---: |
+| 🧩 待添加 | 这里将展示我的实践项目与小工具。 | 待补充 |
 
-## 🎵 Hatsune Miku ♡
+## 学习记录
 
-**初音未来 Love，持续播放中。**
+值得记下的，不只有结果，还有弄明白一个问题的过程。
 
-喜欢她的歌声，也喜欢围绕她诞生的音乐、作品与创意。代码之外，也给喜欢的旋律留一个位置。 (｡･ω･｡)ﾉ♡
+<details>
+<summary><strong>📝 笔记预留区 · 点击展开</strong></summary>
+
+<br>
+
+<!-- 用真实内容替换下面的条目；可复制整个 details 块添加更多笔记。 -->
+
+**主题** · 待补充
+
+- **学到了什么：** 待补充。
+- **想继续探索：** 待补充。
+- **相关链接：** 待添加。
+
+</details>
+
+<br>
 
 ---
 
-*保持好奇，认真写代码。下次 commit 见喵。*
+<div align="center">
+
+<p><strong>✦ Stay curious. Keep building.</strong></p>
+<sub>感谢来访，期待在代码的世界里相遇。</sub>
+
+</div>
