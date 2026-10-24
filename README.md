@@ -1,56 +1,58 @@
 <div align="center">
-  <h1>🐾 叁玖Asterisk</h1>
-  <p><strong>柔情猫娘 · 39Asterisk</strong></p>
-  <p>欢迎来到猫猫的小窝喵～</p>
-  <img src="https://img.shields.io/badge/Miku_Lover-39C5BB?style=for-the-badge" alt="喜欢初音未来" />
+
+# ฅ^•ﻌ•^ฅ 叁玖 Asterisk
+
+**学生开发者 · 开源创作 · 实用工具**
+
+把灵感敲进代码，把喜欢藏进每一次提交喵。
+
+<sub>猫耳接收灵感，指尖创造一点小小的可能。</sub>
+
+**💚 Hatsune Miku · LoveLoveLove 💚**
+
 </div>
-
-## 🐾 关于猫猫
-
-这里是 **叁玖Asterisk**，一只柔情猫娘喵～
-
-在这里留下学习和折腾的小小足迹，一点点积攒经验，也认真喜欢着自己喜欢的事物。
-
-## 🧰 猫猫的工具箱
-
-平时会用到这些工具喵：
-
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
-![Xray](https://img.shields.io/badge/Xray-39C5BB?style=for-the-badge)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-## 🌱 正在学习喵
-
-![正在学习 C 语言](https://img.shields.io/badge/C-Learning-00599C?style=for-the-badge&logo=c&logoColor=white)
-![正在学习数据结构](https://img.shields.io/badge/Data_Structures-Learning-39C5BB?style=for-the-badge)
-
-正在学习 **C 语言** 和 **数据结构**，一点点把基础打扎实喵。
-
-## 📊 留在 GitHub 的小爪印
-
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img width="495" src="https://github-stats-extended.vercel.app/api?username=39Asterisk&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0D1117&amp;title_color=39C5BB&amp;icon_color=39C5BB&amp;text_color=C9D1D9&amp;border_color=30363D&amp;card_width=495" alt="39Asterisk 的 GitHub 统计概览" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="495" src="https://streak-stats.demolab.com/?user=39Asterisk&amp;theme=dark&amp;locale=zh_Hans&amp;timezone=Asia%2FShanghai&amp;background=0D1117&amp;border=30363D&amp;ring=39C5BB&amp;fire=39C5BB&amp;currStreakLabel=39C5BB" alt="39Asterisk 的连续贡献记录" />
-  </a>
-</p>
-
-## 🎵 喜欢的事
-
-喜欢 **初音未来** 💕，也喜欢 **Minecraft** ⛏️
-
-这份喜欢，也悄悄藏在主页的青绿色里喵～
 
 ---
 
-<p align="center">
-  <sub>谢谢你来串门，愿你今天也有好心情喵～ ♡</sub>
-</p>
+## 🐾 关于我
 
-<!-- 徽章由 https://shields.io/ 提供；统计组件来源见卡片链接。 -->
+你好喵～这里是 **叁玖 Asterisk**，一只在代码世界里慢慢升级的学生猫娘。
+
+喜欢把「这个能不能更方便一点？」变成亲手做出来的小工具，也想把琢磨过的问题和学到的东西留在开源世界里。遇到 Bug 会先竖起耳朵，理顺线索，再伸爪修好它喵。
+
+## 🧶 兴趣方向
+
+- **实用工具**：从日常的小麻烦里找需求，把灵感做成用得上的小工具。
+- **工程质量**：把逻辑理顺、边界想清，也照顾报错提示和使用文档。
+- **开源协作**：在 Issue 里交换线索，在 Pull Request 里一起把作品打磨好。
+
+## 🛠️ 写码习惯
+
+- **竖起耳朵**：先听需求，弄清问题，再决定代码往哪里长。
+- **认真伸爪**：把改动拆小，边写边验证，让每次提交都有着落。
+- **理好线团**：补齐文档和复现步骤，给未来的自己与路过的同伴少留一点谜题。
+
+## 🤝 来小窝串门
+
+有想法可以在相关仓库的 **Issue** 里敲敲门，有改进也欢迎递来 **Pull Request**。
+
+带上使用场景、复现步骤或设计思路，我会更容易接住你的线团喵。还没想完整的小点子也可以放下来，我们一起慢慢理出线头～
+
+## 💚 初音未来
+
+代码之外，也给初音未来留一块软软的小窝。喜欢她的歌声，也喜欢那份把世界点亮的元气喵。
+
+**初音未来 LoveLoveLove！今天也是，明天也是。💚**
+
+如果你也喜欢 Miku，那我们就又多了一个共同话题啦。
+
+---
+
+<div align="center">
+
+**认真写代码，也认真喜欢这个世界喵。**
+
+<sub>感谢来小窝串门，留下一个小小的爪印再走呀。ฅ^•ﻌ•^ฅ</sub>
+
+</div>
+
