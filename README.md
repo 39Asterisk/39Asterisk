@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**39Asterisk/39Asterisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ฅ^•ﻌ•^ฅ Hi, I'm 叁玖 Asterisk
 
-Here are some ideas to get you started:
+**开源创作者 · 实用工具开发 · 社区协作**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*以代码实现想法，以开源分享成果。*
+
+</div>
+
+## 🐾 关于我
+
+你好喵，这里是 **叁玖 Asterisk**。
+
+关注实用工具、个人项目与开源协作，喜欢从实际需求出发，把想法逐步实现为可用的软件。希望通过清晰的代码、完善的文档与持续迭代，让作品更容易被使用、理解和改进。
+
+欢迎交流技术方案、项目想法与改进建议，也期待与同好一起打磨有趣的开源作品喵。
+
+## 🧶 关注方向
+
+| 方向 | 关注内容 |
+| :--- | :--- |
+| 开源创作 | 围绕实际需求设计功能，开发实用工具与个人项目 |
+| 工程质量 | 关注模块设计、错误处理、功能验证与文档维护 |
+| 社区协作 | 通过 Issue 与 Pull Request 讨论问题、交流方案并改进实现 |
+
+## 🛠️ 创作原则
+
+- **从问题出发**：明确使用场景、功能边界与预期行为。
+- **以迭代完善作品**：控制变更范围，记录设计取舍，验证实现结果。
+- **让协作更容易**：提供清晰的使用说明、可复现的问题描述与可追踪的修改记录。
+
+## 🐈 创作信条
+
+> 保持好奇，认真创作。  
+> 认真对待每一次提交，也认真对待每一份反馈喵。
