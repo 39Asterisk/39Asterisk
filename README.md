@@ -1,6 +1,6 @@
 <div align="center">
 
-# ฅ^•ﻌ•^ฅ 叁玖 Asterisk
+# ฅ^•ﻌ•^ฅ 叁玖 Asterisk Neko-chan!!!
 
 **学生开发者 · 开源创作 · 实用工具**
 
