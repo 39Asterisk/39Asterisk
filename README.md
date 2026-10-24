@@ -1,93 +1,56 @@
-<!--
-GitHub 个人主页 README · 可直接渲染的单文件模板
-
-使用：将本文件命名为 README.md，放入与你的 GitHub 用户名同名的公开仓库根目录。
-展示名不需要与 GitHub 用户名相同。
-
-可修改位置：展示名、自我介绍、项目表格、学习记录。
-项目链接示例：[项目名称](https://github.com/你的用户名/仓库名)
-未填写的信息以“待添加 / 待补充”显示；本注释不会出现在渲染后的页面中。
--->
-
 <div align="center">
+  <h1>🐾 叁玖Asterisk</h1>
+  <p><strong>柔情猫娘 · 39Asterisk</strong></p>
+  <p>欢迎来到猫猫的小窝喵～</p>
+  <img src="https://img.shields.io/badge/Miku_Lover-39C5BB?style=for-the-badge" alt="喜欢初音未来" />
+</div>
 
-<sub>WELCOME TO MY CORNER OF GITHUB</sub>
+## 🐾 关于猫猫
 
-<h1>你好，我是叁玖 Asterisk ✦</h1>
+这里是 **叁玖Asterisk**，一只柔情猫娘喵～
 
-<p><strong>🎓 学生 &nbsp; · &nbsp; 💻 计算机爱好者 &nbsp; · &nbsp; 🌱 保持好奇</strong></p>
+在这里留下学习和折腾的小小足迹，一点点积攒经验，也认真喜欢着自己喜欢的事物。
 
-<p>把好奇心写进代码，把每一步留在这里。</p>
+## 🧰 猫猫的工具箱
 
-<p>
-  <a href="#关于我">关于我</a>
-  &nbsp; / &nbsp;
-  <a href="#项目空间">项目空间</a>
-  &nbsp; / &nbsp;
-  <a href="#学习记录">学习记录</a>
+平时会用到这些工具喵：
+
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+![Xray](https://img.shields.io/badge/Xray-39C5BB?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+## 🌱 正在学习喵
+
+![正在学习 C 语言](https://img.shields.io/badge/C-Learning-00599C?style=for-the-badge&logo=c&logoColor=white)
+![正在学习数据结构](https://img.shields.io/badge/Data_Structures-Learning-39C5BB?style=for-the-badge)
+
+正在学习 **C 语言** 和 **数据结构**，一点点把基础打扎实喵。
+
+## 📊 留在 GitHub 的小爪印
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img width="495" src="https://github-stats-extended.vercel.app/api?username=39Asterisk&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0D1117&amp;title_color=39C5BB&amp;icon_color=39C5BB&amp;text_color=C9D1D9&amp;border_color=30363D&amp;card_width=495" alt="39Asterisk 的 GitHub 统计概览" />
+  </a>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="495" src="https://streak-stats.demolab.com/?user=39Asterisk&amp;theme=dark&amp;locale=zh_Hans&amp;timezone=Asia%2FShanghai&amp;background=0D1117&amp;border=30363D&amp;ring=39C5BB&amp;fire=39C5BB&amp;currStreakLabel=39C5BB" alt="39Asterisk 的连续贡献记录" />
+  </a>
+</p>
+
+## 🎵 喜欢的事
+
+喜欢 **初音未来** 💕，也喜欢 **Minecraft** ⛏️
+
+这份喜欢，也悄悄藏在主页的青绿色里喵～
 
 ---
 
-## 关于我
+<p align="center">
+  <sub>谢谢你来串门，愿你今天也有好心情喵～ ♡</sub>
+</p>
 
-我是 **叁玖 Asterisk**，一名对计算机保持好奇的学生。
-
-想把这里慢慢整理成自己的数字小站：记录学到的知识，存放动手做过的东西，也给新的想法留一点空间。
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📖 学一点</h3>
-      <p>从一个问题出发，理解概念、整理思路，再把零散的知识连起来。</p>
-      <p><sub>理解 · 记录 · 回顾</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ 做一点</h3>
-      <p>把想法变成小实验，在实践中发现问题，也在修改中慢慢进步。</p>
-      <p><sub>尝试 · 实践 · 改进</sub></p>
-    </td>
-  </tr>
-</table>
-
-## 项目空间
-
-> 🌱 给接下来的作品留个位置。
-
-<!-- 将下面的预留行替换为真实项目，可以继续添加新行。 -->
-
-| 项目 | 一句话介绍 | 状态 |
-| :--- | :--- | :---: |
-| 🧩 待添加 | 这里将展示我的实践项目与小工具。 | 待补充 |
-
-## 学习记录
-
-值得记下的，不只有结果，还有弄明白一个问题的过程。
-
-<details>
-<summary><strong>📝 笔记预留区 · 点击展开</strong></summary>
-
-<br>
-
-<!-- 用真实内容替换下面的条目；可复制整个 details 块添加更多笔记。 -->
-
-**主题** · 待补充
-
-- **学到了什么：** 待补充。
-- **想继续探索：** 待补充。
-- **相关链接：** 待添加。
-
-</details>
-
-<br>
-
----
-
-<div align="center">
-
-<p><strong>✦ Stay curious. Keep building.</strong></p>
-<sub>感谢来访，期待在代码的世界里相遇。</sub>
-
-</div>
+<!-- 徽章由 https://shields.io/ 提供；统计组件来源见卡片链接。 -->
